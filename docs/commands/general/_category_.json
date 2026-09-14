@@ -3,6 +3,6 @@
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "General Commands"
+    "description": "General purpose commands, non related to moderation or administration. Mostly accessible by any user when prompted."
   }
 }

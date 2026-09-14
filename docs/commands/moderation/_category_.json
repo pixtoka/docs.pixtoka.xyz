@@ -3,6 +3,6 @@
   "position": 4,
   "link": {
     "type": "generated-index",
-    "description": "Moderation Commands"
+    "description": "Moderation commands to manage users access to the server in case of restrictions or unallowed behaviour. Accessible to the moderators of the server."
   }
 }
