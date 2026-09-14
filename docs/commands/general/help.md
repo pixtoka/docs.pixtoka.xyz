@@ -6,34 +6,25 @@ slug: /commands/help
 
 # /help
 
-This command is used to get a command list and information about the bot and server.
+This command is used to get information about a command, or if not specified, a list of available commands.
 
 ### Command Usage {#usage}
 
-The help command doesn't need any parsed value.
+The help command is called with a specified command to get information about it.
+If no command is specified, a list of available commands to the user will be displayed.
 
-| command       | value    |
-| ------------- | -------- |
-| `/help`       | `<none>` |
+| command       | command (optionnal) |
+| ------------- | ----------------- |
+| `/help`       | `[(command)]`     |
 
 ### Command Result {#result}
 
-:::note
-The content of the help command will differ depending on the server it's been called in.
+**If a command is specified**, informations and usage methods will be shown.
+The shown information is from [Pixtoka's documentation](https://docs.pixtoka.xyz) site.
+
+**If no command is specified**, a list of the available commands for the user depending on his current permission will be displayed.
+Some other informations like bot status and links will be added if enabled.
+
+:::tip
+To customize what is displayed to user using this command. Type `/setup help` and follow the bot instructions. Visit the [`/setup`](/administration/setup) command page to learn more.
 :::
-
-#### In [Pixtoka's official servers](/servers), the bot will provide the following information :
-
-- A brief summary of Pixtoka
-- Small command list (depending on user role)
-- Support Contact Informations
-- Link to Pixtoka Website
-- Link to Pixtoka Documentation
-
-#### In other servers, the bot will provide the following information :
-
-- A brief summary of Pixtoka
-- Small command list (depending on user role)
-- Support Contact Informations
-- Link to Pixtoka Website
-- Link to Pixtoka Documentation
