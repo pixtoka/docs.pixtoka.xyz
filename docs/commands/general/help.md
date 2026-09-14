@@ -22,7 +22,7 @@ The help command doesn't need any parsed value.
 The content of the help command will differ depending on the server it's been called in.
 :::
 
-#### In [Pixtoka's official servers](/others/servers), the bot will provide the following information :
+#### In [Pixtoka's official servers](/servers), the bot will provide the following information :
 
 - A brief summary of Pixtoka
 - Small command list (depending on user role)

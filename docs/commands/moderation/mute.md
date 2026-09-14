@@ -29,7 +29,7 @@ See the [`/unmute`](unmute) command for manually removing users from the mute li
 | `/mute`       | `@username` | `reason message` | `YYYY-MM-DD HH:MM` |
 
 :::warning
-The moderation module needs to be setup before using this command. Type `/setup moderation` and follow the bot instructions. Visit the [`/setup`](../administration/setup) command page to learn more.
+The moderation module needs to be setup before using this command. Type `/setup moderation` and follow the bot instructions. Visit the [`/setup`](/administration/setup) command page to learn more.
 :::
 
 ### Command Result {#result}
