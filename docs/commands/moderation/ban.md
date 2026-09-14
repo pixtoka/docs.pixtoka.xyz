@@ -12,15 +12,15 @@ You can customize if you want the user to be kicked from the server with `/setup
 
 This command is similar to the [`/timeout`](timeout) command, but the user will not be able to see the (selected) channels.
 
+:::note
+See the [`/unban`](unban) command for manually removing users from the ban list.
+:::
+
 ### Command Usage {#usage}
 
 The ban command needs the target user and a reason message. This message will be sent to the user to indicate their ban.
 
 A time period can also be indicated. If not included, the ban will be active until manual removal.
-
-:::note
-See the [`/unban`](unban) command for manually removing users from the ban list.
-:::
 
 | command       | target user | reason           | time (optionnal)   |
 | ------------- | ----------- | ---------------- | ------------------ |

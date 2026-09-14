@@ -6,7 +6,7 @@ slug: /commands/timeout
 
 # /timeout
 
-### This command is a duplicate of the [`/mute`](mute) command.
+### Alias of [`/mute`](mute) {#alias}
 
 :::note
 See the [`/untimeout`](untimeout) command for manually removing users from the timeout list.

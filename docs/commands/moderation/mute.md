@@ -5,13 +5,14 @@ slug: /commands/mute
 ---
 
 # /mute
+### Alias of [`/timeout`](timeout) {#alias}
 
 This command is used to temporarly restrict the access of the user the server. The user will have read-only permission to channels.
 
 This command is similar to the [`/ban`](ban) command, but the user will still be able to see channels with a read-only permission.
 
 :::note
-This command is also usable with `/timeout`
+See the [`/unmute`](unmute) command for manually removing users from the mute list.
 :::
 
 ### Command Usage {#usage}
@@ -19,10 +20,6 @@ This command is also usable with `/timeout`
 The mute command needs the target user and a reason message. This message will be sent to the user to indicate their mute.
 
 A time period can also be indicated. If not included, the mute will be active until manual removal.
-
-:::note
-See the [`/unmute`](unmute) command for manually removing users from the mute list.
-:::
 
 | command       | target user | reason           | time (optionnal)   |
 | ------------- | ----------- | ---------------- | ------------------ |
