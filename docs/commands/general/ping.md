@@ -1,3 +1,9 @@
+---
+id: ping
+title: /ping
+slug: /commands/ping
+---
+
 # /ping
 
 This command is used to get the latency of the bot with the server.

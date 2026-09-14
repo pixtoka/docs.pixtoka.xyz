@@ -1,3 +1,9 @@
+---
+id: ban
+title: /ban
+slug: /commands/ban
+---
+
 # /ban
 
 This command is used to restrict the access of the user to the server. The user will not be able to access channels.

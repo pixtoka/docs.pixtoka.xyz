@@ -1,3 +1,9 @@
+---
+id: help
+title: /help
+slug: /commands/help
+---
+
 # /help
 
 This command is used to get a command list and information about the bot and server.

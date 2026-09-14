@@ -1,3 +1,9 @@
+---
+id: mute
+title: /mute
+slug: /commands/mute
+---
+
 # /mute
 
 This command is used to temporarly restrict the access of the user the server. The user will have read-only permission to channels.

@@ -1,3 +1,9 @@
+---
+id: servers
+title: Servers
+slug: /servers
+---
+
 # Servers
 
 These servers are related to Pixtoka.

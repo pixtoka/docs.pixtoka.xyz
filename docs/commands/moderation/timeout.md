@@ -1,3 +1,9 @@
+---
+id: timeout
+title: /timeout
+slug: /commands/timeout
+---
+
 # /timeout
 
 ### This command is a duplicate of the [`/mute`](mute) command.
