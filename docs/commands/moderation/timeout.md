@@ -8,6 +8,6 @@ slug: /commands/timeout
 
 ### Alias of [`/mute`](mute) {#alias}
 
-:::note
+:::tip
 See the [`/untimeout`](untimeout) command for manually removing users from the timeout list.
 :::

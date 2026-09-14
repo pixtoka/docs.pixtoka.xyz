@@ -11,7 +11,7 @@ This command is used to temporarly restrict the access of the user the server. T
 
 This command is similar to the [`/ban`](ban) command, but the user will still be able to see channels with a read-only permission.
 
-:::note
+:::tip
 See the [`/unmute`](unmute) command for manually removing users from the mute list.
 :::
 

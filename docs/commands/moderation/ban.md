@@ -12,7 +12,7 @@ You can customize if you want the user to be kicked from the server with `/setup
 
 This command is similar to the [`/timeout`](timeout) command, but the user will not be able to see the (selected) channels.
 
-:::note
+:::tip
 See the [`/unban`](unban) command for manually removing users from the ban list.
 :::
 
